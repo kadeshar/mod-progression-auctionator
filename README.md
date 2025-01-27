@@ -1,6 +1,6 @@
 # Support for mod-auctionator in mod-progression
 
-This scripts added support for mod-auctionator in mod-progression.
+This scripts add support for mod-auctionator in mod-progression.
 
 Thanks that you no longer get on auction house item which dont belong to current progression
 
